@@ -401,3 +401,7 @@ display: none;
 .form-row { grid-template-columns: 1fr; }
 .hero { padding: 120px 0 80px; }
 }
+
+/* Simplified launch-ready About section — no site photography required */
+.about-simple { max-width: 860px; }
+.about-simple .about-copy { max-width: 760px; }
